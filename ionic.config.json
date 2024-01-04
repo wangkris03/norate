@@ -1,0 +1,8 @@
+{
+  "name": "norate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "3823e149"
+}
